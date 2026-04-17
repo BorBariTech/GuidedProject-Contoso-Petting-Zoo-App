@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CsharpProjects", "CsharpProjects", "{377645E0-7459-E4D6-7B01-C40A186E0CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp", "CsharpProjects\ZooApp\ZooApp.csproj", "{FFDED33A-8B5F-C7ED-DC13-8221E77CE91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFDED33A-8B5F-C7ED-DC13-8221E77CE91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDED33A-8B5F-C7ED-DC13-8221E77CE91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDED33A-8B5F-C7ED-DC13-8221E77CE91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDED33A-8B5F-C7ED-DC13-8221E77CE91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FFDED33A-8B5F-C7ED-DC13-8221E77CE91D} = {377645E0-7459-E4D6-7B01-C40A186E0CA7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE38EBE7-7E43-4310-9CFB-3C28F730A1ED}
+	EndGlobalSection
+EndGlobal
