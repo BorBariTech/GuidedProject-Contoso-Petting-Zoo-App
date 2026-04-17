@@ -1,0 +1,15 @@
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\bin\Debug\net10.0\ZooApp.exe
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\bin\Debug\net10.0\ZooApp.deps.json
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\bin\Debug\net10.0\ZooApp.runtimeconfig.json
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\bin\Debug\net10.0\ZooApp.dll
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\bin\Debug\net10.0\ZooApp.pdb
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ZooApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ZooApp.AssemblyInfoInputs.cache
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ZooApp.AssemblyInfo.cs
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ZooApp.csproj.CoreCompileInputs.cache
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ZooApp.sourcelink.json
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ZooApp.dll
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\refint\ZooApp.dll
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ZooApp.pdb
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ZooApp.genruntimeconfig.cache
+C:\Users\gogob\GuidedProject-Contoso-Petting-Zoo-App\CsharpProjects\ZooApp\obj\Debug\net10.0\ref\ZooApp.dll
